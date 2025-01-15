@@ -1,2 +1,1 @@
-# dotfiles
-Configuration files for macOS and debian. 
+# Much of this is copied and NOT my own work.
